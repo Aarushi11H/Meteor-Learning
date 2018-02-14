@@ -28,21 +28,23 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 # Articles & Tutorials
 
-1. [The official Meteor guide (1.6)](http://guide.meteor.com/) ([Updated consistently](https://github.com/meteor/guide))
-1. [Meteor.js - The Perfect Match For Lean Startups](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups) (Published: 2014/17/01)
-1. [Why web beginners should start with Meteor](https://www.meteor.com/blog/2013/12/13/why-web-beginners-should-start-with-meteor) (Published: 2013/12/13)
-1. [Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/) (Published: 2012/7/25)
-1. [Introduction to Realtime Web with Meteor and Node.js](https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs) (Published: 2012/08/02)
-1. [Building a customized accounts ui for Meteor](http://blog.benmcmahen.com/post/41741539120/building-a-customized-accounts-ui-for-meteor) (Published: 2013/01/29)
-1. [Using d3 and Meteor to generate scalable vector graphics (SVG)](http://blog.benmcmahen.com/post/41124327100/using-d3-and-meteor-to-generate-scalable-vector) (Published: 2013/01/21)
-1. [Using Meteor’s Rendered Callback](http://blog.benmcmahen.com/post/44771047946/using-meteors-rendered-callback) (Published: 2013/03/07) 
-1. [Meteor’s Reactive Data Sources](http://blog.benmcmahen.com/post/48367809759/meteors-reactive-data-sources) (Published: 2013/04/19)
-1. [Entering the Atmosphere with Meteor.js](http://www.keysolutions.com/blogs/kenyee.nsf/d6plinks/KKYE-94VUVQ) (Published: 2013/04/05)
-1. [Meteor.js Iron Router Filters, Before and After Hooks](http://www.manuel-schoebel.com/blog/meteorjs-iron-router-filters-before-and-after-hooks) (Published: 2014/02/03)
-1. [Why Is My Meteor App Not Updating Reactively?](http://robertdickert.com/blog/2013/11/14/why-is-my-meteor-app-not-updating-reactively/) (Published: 2013/11/14)
-1. [Meteor is F***ing Awesome](https://medium.com/meteor-news/a28ac7d30e2d) (Published: 2014/01/18)
-1. [The Wonderful Duo — Using Meteor and AngularJS Together](https://medium.com/web-dev/4d603a4651bf)
-1. [Why Meteor will kill Ruby on Rails](http://blog.differential.com/meteor-killin-rails/)
+Link | Published Date 
+:---: |:---: 
+[The official Meteor guide (1.6)](http://guide.meteor.com/) | [Updated consistently](https://github.com/meteor/guide)
+[Meteor.js - The Perfect Match For Lean Startups](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups) | 2014/17/01
+[Why web beginners should start with Meteor](https://www.meteor.com/blog/2013/12/13/why-web-beginners-should-start-with-meteor) | 2013/12/13
+[Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/) | 2012/7/25
+[Introduction to Realtime Web with Meteor and Node.js](https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs) | 2012/08/02
+[Building a customized accounts ui for Meteor](http://blog.benmcmahen.com/post/41741539120/building-a-customized-accounts-ui-for-meteor) | 2013/01/29
+[Using d3 and Meteor to generate scalable vector graphics (SVG)](http://blog.benmcmahen.com/post/41124327100/using-d3-and-meteor-to-generate-scalable-vector) | 2013/01/21
+[Using Meteor’s Rendered Callback](http://blog.benmcmahen.com/post/44771047946/using-meteors-rendered-callback) | 2013/03/07 
+[Meteor’s Reactive Data Sources](http://blog.benmcmahen.com/post/48367809759/meteors-reactive-data-sources) | 2013/04/19
+[Entering the Atmosphere with Meteor.js](http://www.keysolutions.com/blogs/kenyee.nsf/d6plinks/KKYE-94VUVQ) | 2013/04/05
+[Meteor.js Iron Router Filters, Before and After Hooks](http://www.manuel-schoebel.com/blog/meteorjs-iron-router-filters-before-and-after-hooks) | 2014/02/03
+[Why Is My Meteor App Not Updating Reactively?](http://robertdickert.com/blog/2013/11/14/why-is-my-meteor-app-not-updating-reactively/) | 2013/11/14
+[Meteor is F***ing Awesome](https://medium.com/meteor-news/a28ac7d30e2d) | 2014/01/18
+[The Wonderful Duo — Using Meteor and AngularJS Together](https://medium.com/web-dev/4d603a4651bf) |
+[Why Meteor will kill Ruby on Rails](http://blog.differential.com/meteor-killin-rails/) |
 1. [How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use)
 1. [Building an MVP - Crowducate.me](http://www.manuel-schoebel.com/blog/building-an-mvp---crowducateme)
 1. [Introduction to DDP](http://meteorhacks.com/introduction-to-ddp.html)
