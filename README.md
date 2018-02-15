@@ -82,23 +82,22 @@ Link | Published/Updated Date
 [Meteor 1.5 and React Loadable](https://blog.meteor.com/meteor-1-5-react-loadable-f029a320e59c) | 2017/03/14
 
 # Books
-
-1. [Learn Meteor](http://www.learn-meteor.in/)
-1. [Building Single-page Web Apps with Meteor](https://www.packtpub.com/web-development/building-single-page-web-apps-meteor)
-1. [Discover Meteor](http://www.discovermeteor.com/)
-1. [Getting Started with Meteor.js JavaScript Framework](http://www.packtpub.com/getting-started-with-meteor-javascript-framework/book)
-1. [Instant Meteor JavaScript Framework Starter](http://www.packtpub.com/meteor-javascript-framework-starter/book)
-1. [Mastering MeteorJS Application Development](https://www.packtpub.com/web-development/mastering-meteorjs-application-development)
-1. [Meteor Cookbook](http://meteorgitbook.harp.io/)
-1. [Meteor Explained](https://gumroad.com/l/meteor-explained)
-1. [Meteor in Action](http://www.meteorinaction.com/)
-1. [Meteor + React](http://meteorandreact.com/)
-1. [Meteor Tutorial](http://www.meteor-tutorial.org/book/_single-page)
-1. [Pro Meteor: Meteor Internals, Scaling & More](https://meteorhacks.com/ebook/pro-meteor.html?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks)
-1. [The Meteor Testing Manual](http://www.meteortesting.com/)
-1. [Your First Meteor Application](http://meteortips.com/)
-1. [Learn Meteor - Be ready for coding away next week using Meteor](https://leanpub.com/learnmeteor)
-1. [Building Applications with Meteor](https://www.packtpub.com/web-development/build-applications-meteor)
+Link | Published/Updated Date 
+:---: |:---: 
+[Building Single-page Web Apps with Meteor](https://www.packtpub.com/web-development/building-single-page-web-apps-meteor) | 2015/01
+[Discover Meteor](http://www.discovermeteor.com/) | 2016/05/31
+[Getting Started with Meteor.js JavaScript Framework](http://www.packtpub.com/getting-started-with-meteor-javascript-framework/book) | 2012/01
+[Instant Meteor JavaScript Framework Starter](http://www.packtpub.com/meteor-javascript-framework-starter/book) | 2013/04
+[Mastering MeteorJS Application Development](https://www.packtpub.com/web-development/mastering-meteorjs-application-development) | 2015/12
+[Meteor Cookbook](https://www.packtpub.com/web-development/meteor-cookbook) | 2015/05
+[Meteor Explained](https://gumroad.com/l/meteor-explained) | 2015/10/30
+[Meteor in Action](https://www.manning.com/books/meteor-in-action) | 2015/09
+[Meteor + React](http://meteorandreact.com/) | Unknown
+[Meteor Tutorial](http://www.meteor-tutorial.org/book/_single-page) | Unknown
+[The Meteor Testing Manual](http://www.meteortesting.com/) | Unknown
+[Your First Meteor Application](http://meteortips.com/) | 2014/07/30
+[Learn Meteor - Be ready for coding away next week using Meteor](https://leanpub.com/learnmeteor) | 2017/09/11
+[Building Applications with Meteor](https://www.packtpub.com/web-development/build-applications-meteor) | 2017/05
 
 ## Books in Other Languages
 
@@ -106,7 +105,6 @@ Link | Published/Updated Date
 1. `pt-br` | [Meteor: Criando aplicações web real-time com JavaScript](https://casadocodigo.refersion.com/l/d88.3525)
 
 # Built with Meteor
-
 
 1. [Made With](https://builtwithmeteor.com) - a list of applications built with meteor
 1. [antichess](https://github.com/bojan88/antichess) - a chess variant in which the objective of each player is to lose all of his pieces
