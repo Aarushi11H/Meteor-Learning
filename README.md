@@ -28,7 +28,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 # Articles & Tutorials
 
-Link | Published Date 
+Link | Published/Updated Date 
 :---: |:---: 
 [The official Meteor guide (1.6)](http://guide.meteor.com/) | [Updated consistently](https://github.com/meteor/guide)
 [Meteor.js - The Perfect Match For Lean Startups](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups) | 2014/17/01
@@ -51,37 +51,35 @@ Link | Published Date
 [Building an RSS Reader With Meteor](http://midnightcheese.com/2013/06/building-an-rss-reader-with-meteor/) | 2013/06/27
 [Meteor.js in Action: Create an App, Test With Laika](http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika/#.U2vHCXWx0Tc) | 2014/01/29
 [What's This Meteor Thing?](http://code.tutsplus.com/tutorials/whats-this-meteor-thing--net-25426) | 2012/06/08
-1. [Meteor for Front-End Engineers](http://davidwalsh.name/meteor-frontend-engineers)
-1. [Confessions of a Meteor Newb](http://blog.jerodsanto.net/2012/04/confessions-of-a-meteor-newb/)
-1. [9 ways that Meteor JS raises expectations](http://mrcoles.com/meteor-raising-the-bar/)
-1. [Building An App In 45 Minutes With Meteor](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
-1. [Add routing to Meteor JS](http://sebastiandahlgren.se/2013/07/20/add-routing-to-meteor-js/)
-1. [Meteor and SEO](http://www.manuel-schoebel.com/blog/meteor-and-seo)
-1. [Why the future of the web is real-time (6 months w/ Meteor)](http://thechangelog.com/why-meteor/)
-1. [Instant web applications with Meteor](http://www.ibm.com/developerworks/web/library/wa-meteor-webapps/index.html?ca=drs-)
-1. [Going all in with Meteor.JS](https://medium.com/all-about-meteorjs/93b46f9253b4)
-1. [Iron Router: First Steps](http://robertdickert.com/blog/2014/05/08/iron-router-first-steps/)
-1. [Set Up Navigation With Iron Router and Bootstrap](http://robertdickert.com/blog/2014/05/09/set-up-navigation-with-iron-router-and-bootstrap/)
-1. [Learn Meteor.js Properly](http://javascriptissexy.com/learn-meteor-js-properly/)
-1. [Everything You Need To Know About Async & Meteor](http://phucnguyen.info/blog/everything-you-need-to-know-about-async-meteor/)
-1. [Bullet-proof Meteor applications with Velocity, Unit Testing, Integration Testing and Jasmine](https://doctorllama.wordpress.com/2014/09/22/bullet-proof-internationalised-meteor-applications-with-velocity-unit-testing-integration-testing-and-jasmine/)
-1. [How to test your angular application within meteor](http://farla.io/2015/05/11/unittesting-angular-meteor.html)
-1. [Why Front-End Developers should try to learn Meteor](http://julian.io/why-front-end-developers-should-try-to-learn-meteor/)
-1. [How to create a blog in Meteor (NOT for complete beginners!)](http://naturaily.com/blog/post/how-to-create-blog-in-meteor-not-for-complete-beginners)
-1. [Things I wish someone had told me when I first started learning Meteor.js](https://adilapapaya.wordpress.com/2014/03/12/things-i-wish-someone-told-me-when-i-first-started-learning-meteor-js/)
-1. [Ternopiljs courses by JSSolutions](http://jssolutionsdev.com/ternopiljs)
-1. [Meteor Capture](http://meteorcapture.com/) (many articles)
-1. [Build Slack clone with Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
-1. [Back up a production meteor app database and restore it in local machine](http://arvi.io/back-up-a-production-meteor-app-database-and-restore-it-in-local-machine/)
-1. [Getting started with Meteor.js](http://joshowens.me/getting-started-with-meteor-js/)
-1. [What is Meteor?](http://joshowens.me/what-is-meteor-js/)
-2. [Meteor Accounts based on sId package](http://julian.io/meteor-accounts-based-on-sid-package/)
-3. [How do I host multiple Meteor apps on one DigitalOcean Droplet](http://julian.io/how-do-i-host-multiple-meteor-apps-on-one-digitalocean-droplet/)
-4. [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
-5. [Live Chat App Using Meteor and the DDP Protocol](http://julian.io/live-chat-app-using-meteor-and-the-ddp-protocol/)
-6. [Get Started with Meteor by Building a Chat App](https://www.codementor.io/meteor/tutorial/getting-started-with-meteor-build-sample-app)
-7. [Meteor 1.3 With ReactJS](https://www.codementor.io/meteor/tutorial/meteor-13-with-reactjs)
-8. [Meteor 1.5 and React Loadable](https://blog.meteor.com/meteor-1-5-react-loadable-f029a320e59c)
+[Meteor for Front-End Engineers](http://davidwalsh.name/meteor-frontend-engineers) | 2013/09/11
+[Confessions of a Meteor Newb](http://blog.jerodsanto.net/2012/04/confessions-of-a-meteor-newb/) | 2012/04/23
+[9 ways that Meteor JS raises expectations](http://mrcoles.com/meteor-raising-the-bar/) | 2013/06/03
+[Building An App In 45 Minutes With Meteor](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/) | 2013/06/13
+[Add routing to Meteor JS](http://sebastiandahlgren.se/2013/07/20/add-routing-to-meteor-js/) | 2013/07/20
+[Meteor and SEO](http://www.manuel-schoebel.com/blog/meteor-and-seo) | 2014/01/19
+[Why the future of the web is real-time (6 months w/ Meteor)](http://thechangelog.com/why-meteor/) | 2013/03/12
+[Instant web applications with Meteor](http://www.ibm.com/developerworks/web/library/wa-meteor-webapps/index.html?ca=drs-) | 2015/05/27
+[Going all in with Meteor.JS](https://medium.com/all-about-meteorjs/93b46f9253b4) | 2014/03/28
+[Iron Router: First Steps](http://robertdickert.com/blog/2014/05/08/iron-router-first-steps/) | 2014/05/08
+[Set Up Navigation With Iron Router and Bootstrap](http://robertdickert.com/blog/2014/05/09/set-up-navigation-with-iron-router-and-bootstrap/) | 2014/05/09
+[Learn Meteor.js Properly](http://javascriptissexy.com/learn-meteor-js-properly/) | 2014/10/09
+[Everything You Need To Know About Async & Meteor](http://phucnguyen.info/blog/everything-you-need-to-know-about-async-meteor/) | 2014/10/26
+[Bullet-proof Meteor applications with Velocity, Unit Testing, Integration Testing and Jasmine](https://doctorllama.wordpress.com/2014/09/22/bullet-proof-internationalised-meteor-applications-with-velocity-unit-testing-integration-testing-and-jasmine/) | 2014/10/16
+[How to test your angular application within meteor](http://farla.io/2015/05/11/unittesting-angular-meteor.html) | 2015/05/11
+[Why Front-End Developers should try to learn Meteor](http://julian.io/why-front-end-developers-should-try-to-learn-meteor/) | 2015/06/03
+[How to create a blog in Meteor (NOT for complete beginners!)](http://naturaily.com/blog/post/how-to-create-blog-in-meteor-not-for-complete-beginners) | 2015/03/04
+[Things I wish someone had told me when I first started learning Meteor.js](https://adilapapaya.wordpress.com/2014/03/12/things-i-wish-someone-told-me-when-i-first-started-learning-meteor-js/) | 2014/03/12
+[Meteor Capture](http://meteorcapture.com/) (many articles) | Latest: 2016/02/23
+[Build Slack clone with Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started) | 2015/05/11
+[Getting started with Meteor.js](http://joshowens.me/getting-started-with-meteor-js/) | 2015/01/22
+[What is Meteor?](http://joshowens.me/what-is-meteor-js/) | 2014/12/18
+[Meteor Accounts based on sId package](http://julian.io/meteor-accounts-based-on-sid-package/) | 2015/10/05
+[How do I host multiple Meteor apps on one DigitalOcean Droplet](http://julian.io/how-do-i-host-multiple-meteor-apps-on-one-digitalocean-droplet/) | 2016/03/18
+[React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/) | 2016/05/19
+[Live Chat App Using Meteor and the DDP Protocol](http://julian.io/live-chat-app-using-meteor-and-the-ddp-protocol/) | 2016/06/08
+[Get Started with Meteor by Building a Chat App](https://www.codementor.io/meteor/tutorial/getting-started-with-meteor-build-sample-app) | 2017/01/18
+[Meteor 1.3 With ReactJS](https://www.codementor.io/meteor/tutorial/meteor-13-with-reactjs) | 2017/01/18
+[Meteor 1.5 and React Loadable](https://blog.meteor.com/meteor-1-5-react-loadable-f029a320e59c) | 2017/03/14
 
 # Books
 
