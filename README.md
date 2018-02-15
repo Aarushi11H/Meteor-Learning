@@ -43,15 +43,14 @@ Link | Published Date
 [Meteor.js Iron Router Filters, Before and After Hooks](http://www.manuel-schoebel.com/blog/meteorjs-iron-router-filters-before-and-after-hooks) | 2014/02/03
 [Why Is My Meteor App Not Updating Reactively?](http://robertdickert.com/blog/2013/11/14/why-is-my-meteor-app-not-updating-reactively/) | 2013/11/14
 [Meteor is F***ing Awesome](https://medium.com/meteor-news/a28ac7d30e2d) | 2014/01/18
-[The Wonderful Duo — Using Meteor and AngularJS Together](https://medium.com/web-dev/4d603a4651bf) |
-[Why Meteor will kill Ruby on Rails](http://blog.differential.com/meteor-killin-rails/) |
-1. [How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use)
-1. [Building an MVP - Crowducate.me](http://www.manuel-schoebel.com/blog/building-an-mvp---crowducateme)
-1. [Introduction to DDP](http://meteorhacks.com/introduction-to-ddp.html)
-1. [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
-1. [Building an RSS Reader With Meteor](http://midnightcheese.com/2013/06/building-an-rss-reader-with-meteor/)
-1. [Meteor.js in Action: Create an App, Test With Laika](http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika/#.U2vHCXWx0Tc)
-1. [What's This Meteor Thing?](http://code.tutsplus.com/tutorials/whats-this-meteor-thing--net-25426)
+[The Wonderful Duo — Using Meteor and AngularJS Together](https://medium.com/web-dev/4d603a4651bf) | 2014/02/25
+[Why Meteor will kill Ruby on Rails](http://blog.differential.com/meteor-killin-rails/) | 2013/10/29
+[How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use) | 2014/02/05
+[Building an MVP - Crowducate.me](http://www.manuel-schoebel.com/blog/building-an-mvp---crowducateme) | 2014/05/06
+[Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/) | 2013/07/17
+[Building an RSS Reader With Meteor](http://midnightcheese.com/2013/06/building-an-rss-reader-with-meteor/) | 2013/06/27
+[Meteor.js in Action: Create an App, Test With Laika](http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika/#.U2vHCXWx0Tc) | 2014/01/29
+[What's This Meteor Thing?](http://code.tutsplus.com/tutorials/whats-this-meteor-thing--net-25426) | 2012/06/08
 1. [Meteor for Front-End Engineers](http://davidwalsh.name/meteor-frontend-engineers)
 1. [Confessions of a Meteor Newb](http://blog.jerodsanto.net/2012/04/confessions-of-a-meteor-newb/)
 1. [9 ways that Meteor JS raises expectations](http://mrcoles.com/meteor-raising-the-bar/)
