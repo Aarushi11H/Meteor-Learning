@@ -101,8 +101,10 @@ Link | Published/Updated Date
 
 ## Books in Other Languages
 
-1. [Discover Meteor - Multilingual](https://www.discovermeteor.com/translations)
-1. `pt-br` | [Meteor: Criando aplicações web real-time com JavaScript](https://casadocodigo.refersion.com/l/d88.3525)
+Link | Published/Updated Date 
+:---: |:---: 
+[Discover Meteor - Multilingual](https://www.discovermeteor.com/translations) | Language dependent
+`pt-br` | [Meteor: Criando aplicações web real-time com JavaScript](https://casadocodigo.refersion.com/l/d88.3525) | 2014/03/07
 
 # Built with Meteor
 
