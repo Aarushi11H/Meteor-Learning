@@ -104,7 +104,7 @@ Link | Published/Updated Date
 Link | Published/Updated Date 
 :---: |:---: 
 [Discover Meteor - Multilingual](https://www.discovermeteor.com/translations) | Language dependent
-`pt-br` | [Meteor: Criando aplicações web real-time com JavaScript](https://casadocodigo.refersion.com/l/d88.3525) | 2014/03/07
+`pt-br` &#124; [Meteor: Criando aplicações web real-time com JavaScript](https://casadocodigo.refersion.com/l/d88.3525) | 2014/03/07
 
 # Built with Meteor
 
