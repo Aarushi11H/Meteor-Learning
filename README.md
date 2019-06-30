@@ -20,7 +20,7 @@
 * [Talks](#talks)
 * [More Useful Links](#more-useful-links)
 
-> This list was inspired by [this](https://github.com/jmcunningham/AngularJS-Learning) and [this](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)!
+> This list was inspired by [this](https://github.com/jmcunningham/AngularJS-Learning) and [this](http://archive.is/g1arj)!
 
 # How to Collaborate
 
