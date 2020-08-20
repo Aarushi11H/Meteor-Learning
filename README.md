@@ -195,6 +195,8 @@ Link | Published/Updated Date
 1. [Meteor basics](https://www.youtube.com/user/geomck1967/videos)
 1. [Meteor's site Screencast](https://www.meteor.com/screencast)
 1. [Meteor Club Apprentice Series](https://www.youtube.com/playlist?list=PLtujUkEY1Jlq6mVFq3wBTntLzW3EKi9lS)
+1. [Meteor + Vue](https://www.youtube.com/playlist?list=PLmJs3lfUmCdS8W27OoWj3uGDP6g4ypNyw)
+
 
 # Slides
 
